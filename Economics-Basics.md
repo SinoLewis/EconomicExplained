@@ -8,63 +8,63 @@
 
 ## 1.1 **MacroEconomics**
 
-### A) Basic economics concepts: Macroeconomics
+### A) Basic economics concepts
 
-### B) Economic indicators and the business cycle: Macroeconomics
+### B) Economic indicators and the business cycle
 
-### C) National income and price determination: Macroeconomics
+### C) National income and price determination
 
-### D) Financial sector: Macroeconomics
+### D) Financial sector
 
-### E) Long-run consequences of stabilization policies: Macroeconomics
+### E) Long-run consequences of stabilization policies
 
-### F) Open economy: international trade and finance: Macroeconomics
+### F) Open economy: international trade and finance
 
-### G) Keynesian approaches and IS-LM: Macroeconomics
+### G) Keynesian approaches and IS-LM
 
 ### H) Contemporary macroeconomic issues
 
 
 ## 1.2 **MicroEconomics**
 
-### A) Basic economic concepts: Microeconomics
+### A) Basic economic concepts
 
-### B) Supply, demand, and market equilibrium: Microeconomics
+### B) Supply, demand, and market equilibrium
 
-### C) Elasticity: Microeconomics
+### C) Elasticity
 
-### D) Consumer and producer surplus, market interventions, and international trade: Microeconomics
+### D) Consumer and producer surplus, market interventions, and international trade
 
-### E) Consumer theory: Microeconomics
+### E) Consumer theory
 
-### F) Production decisions and economic profit: Microeconomics
+### F) Production decisions and economic profit
 
-### G) Forms of competition: Microeconomics
+### G) Forms of competition
 
-### H) Factor markets: Microeconomics
+### H) Factor markets
 
 ### I) Market failure and the role of government
 
 
 ## 1.3 **Finance and capital markets**
 
-### A) Interest and debt: Finance and capital markets
+### A) Interest and debt
 
-### B) Housing: Finance and capital markets
+### B) Housing
 
-### C) Inflation: Finance and capital markets
+### C) Inflation
 
-### D) Taxes: Finance and capital markets
+### D) Taxes
 
-### E) Accounting and financial statements: Finance and capital markets
+### E) Accounting and financial statements
 
-### F) Stocks and bonds: Finance and capital markets
+### F) Stocks and bonds
 
-### G) Investment vehicles, insurance, and retirement: Finance and capital markets
+### G) Investment vehicles, insurance, and retirement
 
-### H) Money, banking and central banks: Finance and capital markets
+### H) Money, banking and central banks
 
-### I) Options, swaps, futures, MBSs, CDOs, and other derivatives: Finance and capital markets
+### I) Options, swaps, futures, MBSs, CDOs, and other derivatives
 
 ### J) Current economics
 
@@ -73,7 +73,7 @@
 
 > Macro
 
-### A) AP®︎ Macroeconomics Standards mappings: AP®︎/College Macroeconomics
+### A) AP®︎ Macroeconomics Standards mappings
 
 ### B) Resources and exam preparation
 
@@ -103,9 +103,9 @@
 
 1. Market structures: Market structure refers to the degree of competition in a market. Perfect competition, monopolistic competition, oligopoly, and monopoly are the four main market structures.
 
-1. Macroeconomics: Macroeconomics studies the economy as a whole, focusing on issues such as economic growth, inflation, unemployment, and international trade.
+1. Macroeconomics studies the economy as a whole, focusing on issues such as economic growth, inflation, unemployment, and international trade.
 
-1. Microeconomics: Microeconomics studies the behavior of individuals and firms in the market, including issues such as consumer behavior, production, costs, and market structure.
+1. Microeconomics studies the behavior of individuals and firms in the market, including issues such as consumer behavior, production, costs, and market structure.
 
 ## 2.2 **Intermediate Concepts**
 
