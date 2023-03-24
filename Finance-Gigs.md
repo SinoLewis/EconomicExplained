@@ -6,6 +6,7 @@
 
 1. Crypto & NFT market.
 2. Stock market.
+3. NFT vs Real Art.
 
 ## Broker Markets
 
